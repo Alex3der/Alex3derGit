@@ -10,7 +10,7 @@ This project uses the Ant Colony Optimization (ACO) algorithm to solve the Trave
 
 - **generate_city_matrix(cities, map_size)**: This function generates a matrix that represents the locations of the cities.
 
-- **plot_cities(cities, path)**: This function plots the cities and the best path found by the algorithm.
+- **plot_cities(cities, path)**: This function plots the cities and the best path the algorithm finds.
 
 - **plot_distances(avg_distances, shortest_distances)**: This function plots the average and shortest distances over iterations.
 
@@ -21,8 +21,7 @@ This project uses the Ant Colony Optimization (ACO) algorithm to solve the Trave
 - **n_cities**: The number of cities.
 - **map_size**: The size of the map.
 - **n_ants**: The number of ants in the colony.
-- **n_iterations**: The number of iterations for the algorithm to run.
+- **n_iterations**: The number of iterations for the algorithm.
 - **alpha**: The relative importance of pheromone.
-- **beta**: The relative importance of heuristic information (i.e., visibility).
+- **beta**: The relative importance of heuristic information.
 - **evaporation_rate**: The rate at which pheromone evaporates.
-- 
