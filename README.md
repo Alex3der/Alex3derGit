@@ -40,7 +40,7 @@ This project requires Python 3 and the following Python libraries installed:
 
 ## Run
 To run the code, navigate to the project directory and type the following command:
-- python main.py
+- python ACO.py
 
 ## How it Works
 The program starts by generating a number of cities with random coordinates. An instance of the AntColony class is created, which contains the main ACO algorithm.
