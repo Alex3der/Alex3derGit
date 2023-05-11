@@ -36,7 +36,7 @@ This project requires Python 3 and the following Python libraries installed:
 - Matplotlib
 
 ## Code
-**ACO.py**: This is the main file that you would want to run. It initializes the problem parameters, runs the ACO algorithm, and generates the output.
+`ACO.py`: This is the main file that you would want to run. It initializes the problem parameters, runs the ACO algorithm, and generates the output.
 
 ## Run
 To run the code, navigate to the project directory and type the following command:
