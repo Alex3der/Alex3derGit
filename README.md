@@ -1,5 +1,7 @@
 # Ant Colony Optimization for TSP
 
+This project uses the Ant Colony Optimization (ACO) algorithm to solve the Travelling Salesman Problem (TSP). The ACO algorithm is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs.
+
 ## Requirements
 This project requires Python 3 and the following Python libraries installed:
 - Numpy
